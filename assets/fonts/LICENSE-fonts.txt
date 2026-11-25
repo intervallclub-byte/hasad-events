@@ -1,0 +1,7 @@
+Webfonts in this folder are self-hosted copies of fonts from Google Fonts:
+
+- Manrope — Copyright The Manrope Project Authors (https://github.com/sharanda/manrope)
+- Unbounded — Copyright The Unbounded Project Authors (https://github.com/googlefonts/unbounded)
+
+Both are licensed under the SIL Open Font License, Version 1.1:
+https://openfontlicense.org/open-font-license-official-text/
